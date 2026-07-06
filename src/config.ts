@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Benjamin van Kesselo",
+  name: "Benjamin van Kessel",
   title: "Junior Game Developer and independant Web Developer",
   description: "Benjamin van Kessel's portfolio site",
   accentColor: "#478f4d",
