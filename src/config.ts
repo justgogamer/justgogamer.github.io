@@ -8,6 +8,7 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/benjaminvankessel/",
     github: "https://github.com/justgogamer",
   },
+  photo:"/img/pfpclean.png",
   aboutMe:
     "Hello! I am a fresh IT graduate who is passionate about developing projects that inspire. With a background in Unity, JS/TS, educational design and my own web development endeavors I am able to develop a wide array of varied projects.",
   skills: ["Unity", "C#", "PCG", "WordPress", "Javascript", "Typescript", "Educational"],

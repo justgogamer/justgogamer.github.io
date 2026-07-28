@@ -5,6 +5,29 @@ body {
   background-color: rgb(27, 31, 30);
 }
 
-body p, h6, h5, h4, h3, h2, h1{
-  color: rgb(223, 223, 223);
+body p, h6, h5, h4, h3, h2, h1, span{
+  color: rgb(207, 207, 207);
+}
+
+#heroImg{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: -1;
+}
+
+#heroImg img{
+  opacity: 0.85;
+}
+
+nav a{
+  color: #478f4d
+}
+
+.itemBackground{
+  background-color: rgb(51, 58, 56);
+}
+
+#about span{
+  background-color: rgb(51, 58, 56);
 }
