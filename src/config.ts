@@ -8,23 +8,23 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/benjaminvankessel/",
     github: "https://github.com/justgogamer",
   },
-  photo:"/img/pfpclean.png",
+  photo:"/img/pfpclean2.png",
   aboutMe:
     "Hello! I am a fresh IT graduate who is passionate about developing projects that inspire. With a background in Unity, JS/TS, educational design and my own web development endeavors I am able to develop a wide array of varied projects.",
   skills: ["Unity", "C#", "PCG", "WordPress", "Javascript", "Typescript", "Educational"],
   projects: [
     {
-      name: "ChroMapper Procedural Lightmapping Addon",
+      name: "Audio to Lighting Procedural Lightmapping plugin",
       description:
-        "I developed a PCG system which conducts audio analysis using open-source tool Essentia and generates lights in custom Beat Saber levels made using open-source software Chromapper.",
-      link: "#",
+        "I developed a PCG system which conducts audio analysis using open-source tool Essentia and generates lights in an unannounced rhythm runner project. Part of my work as an intern at Vertigo Studios Amsterdam.",
+      link: "#projects",
       skills: ["Unity", "C#", "PCG"],
     },
     {
       name: "Roblox Game Development courses for primary school students",
       description:
         "In collaboration with after-school activity company deTechHelden, I have developed two Roblox Game Dev courses for primary school students ranging 9-12 years old. This teaches them how to interact with Roblox Studio, as well as promote basic game design thought processes.",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "https://detechhelden.nl/gm-service-page.html",
       skills: ["Educational", "Design", "Lua"],
     },
     {

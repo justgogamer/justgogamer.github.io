@@ -11,9 +11,10 @@ body p, h6, h5, h4, h3, h2, h1, span{
 
 #heroImg{
   position: absolute;
-  top: 0px;
+  bottom: 0px;
   right: 0px;
   z-index: -1;
+  max-width: 45vw;
 }
 
 #heroImg img{
@@ -30,4 +31,11 @@ nav a{
 
 #about span{
   background-color: rgb(51, 58, 56);
+}
+
+a svg{
+  color: #405e42;
+}
+a svg:hover{
+  color:#478f4d;
 }
