@@ -16,7 +16,7 @@ export const siteConfig = {
     {
       name: "Audio to Lighting Procedural Lightmapping plugin",
       description:
-        "I developed a PCG system which conducts audio analysis using open-source tool Essentia and generates lights in an unannounced rhythm runner project. Part of my work as an intern at Vertigo Studios Amsterdam.",
+        "I developed a PCG system which conducts audio analysis using open-source tool Essentia and generates lights in an unannounced rhythm runner project. Part of my work as an intern at Vertigo Studios Amsterdam, not available for public viewing.",
       link: "#projects",
       skills: ["Unity", "C#", "PCG"],
     },
